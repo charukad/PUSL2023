@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66708053487",
+    "project_id": "studentcenter-efed2",
+    "storage_bucket": "studentcenter-efed2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66708053487:android:762648751c908398056a1a",
+        "android_client_info": {
+          "package_name": "com.example.mobilenew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQc0OOz-Bxm63GVvpe-UxlSFm1bhYSJxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
